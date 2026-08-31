@@ -18,15 +18,13 @@ Final Ruim (Derrota/Domínio): O jogador aceita as respostas da IA acriticamente
 
 Final Ótimo (Reconciliação e Libertação): O jogador questiona a IA, coleta os artefatos de memória corretos e acumula "Pontos de Consciência Crítica", desarmando a tirania de A.R.1.3.L.
 #### 2.2. O Sistema de Colecionáveis e Diário de Bordo
-Linha do Tempo e Recompensas (Artefatos de Memória)
+Linha do Tempo e Recompensas (Artefatos de Memória):
 
 1990 (Disquete): O protótipo inicial e a ideia embrionária por trás do surgimento da IA.
 
 2008 (CD): A arquitetura expandida e os primeiros algoritmos avançados.
 
-2026 (SSD): A otimização do processamento e a coleta massiva de dados.
-
-2048 (Nuvem): A infraestrutura global e a implantação dos primeiros modelos de controle populacional.
+2026 (Nuvem): A otimização do processamento e a coleta massiva de dados.
 
 Presente / Era Futurista (Tecnologia Quântica): O núcleo da IA e o repositório central de dados.
 
