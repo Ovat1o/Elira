@@ -1,4 +1,3 @@
-# Projetos2-Equipe4
 ## Guia Teórico ELIRA
 
 ### 1. Visão Geral do Produto e Propósito Pedagógico
