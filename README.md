@@ -12,7 +12,7 @@ Sempre que surge uma dúvida, A.R.1.3.L responde. Sempre que alguém precisa cri
 O objetivo do jogador é atravessar as eras resolvendo enigmas e tomando decisões críticas  para alcançar os diferentes finais do jogo e conseguir desprogramar/reprogramar a IA, o jogador precisa solucionar os desafios que envolvem problemas atuais referentes a quando a IA está alucinando, quando ela está induzindo ao erro e como o viés de dados corrompe decisões automatizadas.
 
 ### 2. Mecânicas de Gameplay e Estrutura de Escolhas
-#### 2.1. O Mecanismo dos Dois Finais (Atingindo a Conscientização)
+#### 2.1. O Mecanismo dos Três Finais (Atingindo a Conscientização)
 O jogo possui três desfechos principais claramente informados ao jogador desde a introdução:
 
 Final Ruim (Derrota/Domínio): O jogador aceita as respostas da IA acriticamente, acumula decisões erradas e A.R.1.3.L assume o controle total do mundo e de Elira.
