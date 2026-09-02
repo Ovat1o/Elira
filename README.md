@@ -1,4 +1,4 @@
-## Guia Teórico ELIRA
+##ELIRA
 
 ### 1. Visão Geral do Produto e Propósito Pedagógico
 ELIRA (Decifra.IA) é um jogo de ficção científica que aborda o letramento digital e o uso crítico de Inteligência Artificial.
