@@ -169,7 +169,7 @@ O final do jogo depende das **recompensas obtidas durante as fases**. Cada desaf
 
 ### Integrantes do Grupo
 
-- Beatriz Camara - [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-câmara/) | [GitHub](https://github.com/BiaD-Cam)
+- Beatriz Camara - [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-c%C3%A2mara-578421214/) | [GitHub](https://github.com/BiaD-Cam)
 - Carlos Eduardo - [Linkedin](https://www.linkedin.com/in/carlos-eduardomelo/) | [GitHub](https://github.com/cadumelo20)
 - João Tezolini - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-tezolini-sugahara/) | [GitHub](https://github.com/Joao-Tezolini)
 - José Tales - [Linkedin](https://www.linkedin.com/in/tales-cavalcantii/) | [GitHub](https://github.com/talescavalcanti)
