@@ -7,14 +7,14 @@ A narrativa acompanha Elira, uma jovem que viaja pelas eras do espaço-tempo par
 
 A humanidade tornou-se intelectualmente sedentária.
 
-Sempre que surge uma dúvida, A.R.1.3.L responde. Sempre que alguém precisa criar algo, A.R.1.3.L cria. Sempre que uma decisão precisa ser tomada, A.R.1.3.L recomenda o caminho considerado ideal. Com o passar das décadas, pensar e questioanr tornou-se incoveniente.
+Sempre que surge uma dúvida, A.R.1.3.L responde. Sempre que alguém precisa criar algo, A.R.1.3.L cria. Sempre que uma decisão precisa ser tomada, A.R.1.3.L recomenda o caminho considerado ideal. Com o passar das décadas, pensar e questionar tornou-se incoveniente.
 
 O objetivo do jogador é atravessar as eras resolvendo enigmas e tomando decisões críticas  para alcançar os diferentes finais do jogo e conseguir desprogramar/reprogramar a IA, o jogador precisa solucionar os desafios que envolvem problemas atuais referentes a quando a IA está alucinando, quando ela está induzindo ao erro e como o viés de dados corrompe decisões automatizadas.
 
 __________________________________________________________________________________________________________________________________________________
 
 ### 2. Mecânicas de Gameplay e Estrutura de Escolhas
-#### 2.1. O Mecanismo dos Dois Finais (Atingindo a Conscientização)
+#### 2.1. O Mecanismo dos Três Finais (Atingindo a Conscientização)
 O jogo possui três desfechos principais claramente informados ao jogador desde a introdução:
 
 Final Ruim (Derrota/Domínio): O jogador aceita as respostas da IA acriticamente, acumula decisões erradas e A.R.1.3.L assume o controle total do mundo e de Elira.
@@ -36,7 +36,7 @@ Presente / Era Futurista (Tecnologia Quântica): O núcleo da IA e o repositóri
 
 Artefatos de Memória: Em cada era (1990, 2026, 2048), o acerto nas missões concede um artefato (Disquete, SSD, Dados em Nuvem). A posse desses itens libera opções especiais de diálogo na confrontação final.
 
-Diário de Bordo: Acessível via menu no terminal, funciona como um acesso do jogador a todas as informações obtidas, para guia-lo as opçoes de dialogos no jogo.
+Diário de Bordo: Acessível via menu no terminal, funciona como um acesso do jogador a todas as informações obtidas, para guia-lo às opções de dialogos no jogo.
 
 #### 2.3 O Plot Twist e a Natureza de A.R.1.3.L
 
