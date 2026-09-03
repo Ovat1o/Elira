@@ -36,11 +36,11 @@ O objetivo do jogador é atravessar as eras resolvendo enigmas e tomando decisõ
 
 ### **4. Integrantes do Grupo**
 
-- Beatriz Camara - Scrum Master | [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-c%C3%A2mara-578421214/) | [GitHub](https://github.com/BiaD-Cam)
-- Carlos Eduardo - Lógica Matemática  | [Linkedin](https://www.linkedin.com/in/carlos-eduardomelo/) | [GitHub](https://github.com/cadumelo20)
-- João Tezolini - Desenvolvedor em C | [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-tezolini-sugahara/) | [GitHub](https://github.com/Joao-Tezolini)
-- José Tales - Design Gráfico | [Linkedin](https://www.linkedin.com/in/tales-cavalcantii/) | [GitHub](https://github.com/talescavalcanti)
-- Luisa Couto - Analista de Design | [Linkedin](www.linkedin.com/in/luísa-couto-5ababa378) | [GitHub](https://github.com/luisasiqcouto)
-- Maria Vitória - Desenvolvedora em C | [Linkedin](https://www.linkedin.com/in/mvitoriapereirac) | [GitHub](https://github.com/mvitoriapereirac)
-- Otávio Leão - Engeheiro de Software | [Linkedin](https://www.linkedin.com/in/otaviosleao/) | [GitHub](https://github.com/Ovat1o)
-- Victor Julius - Desenvolvedor em Haskell | [Linkedin](https://www.linkedin.com/in/victor-julius/) | [GitHub](https://github.com/victorjls21)
+- **Beatriz Camara** - Scrum Master | [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-c%C3%A2mara-578421214/) | [GitHub](https://github.com/BiaD-Cam)
+- **Carlos Eduardo** - Lógica Matemática  | [Linkedin](https://www.linkedin.com/in/carlos-eduardomelo/) | [GitHub](https://github.com/cadumelo20)
+- **João Tezolini** - Desenvolvedor em C | [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-tezolini-sugahara/) | [GitHub](https://github.com/Joao-Tezolini)
+- **José Tales** - Design Gráfico | [Linkedin](https://www.linkedin.com/in/tales-cavalcantii/) | [GitHub](https://github.com/talescavalcanti)
+- **Luisa Couto** - Analista de Design | [Linkedin](www.linkedin.com/in/luísa-couto-5ababa378) | [GitHub](https://github.com/luisasiqcouto)
+- **Maria Vitória** - Desenvolvedora em C | [Linkedin](https://www.linkedin.com/in/mvitoriapereirac) | [GitHub](https://github.com/mvitoriapereirac)
+- **Otávio Leão** - Engeheiro de Software | [Linkedin](https://www.linkedin.com/in/otaviosleao/) | [GitHub](https://github.com/Ovat1o)
+- **Victor Julius** - Desenvolvedor em Haskell | [Linkedin](https://www.linkedin.com/in/victor-julius/) | [GitHub](https://github.com/victorjls21)
