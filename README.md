@@ -158,11 +158,11 @@ ________________________________________________________________________________
 
 ### Integrantes do Grupo
 
-Beatriz Camara - [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-câmara/) | [GitHub](https://github.com/BiaD-Cam)
-Carlos Eduardo - [Linkedin](https://www.linkedin.com/in/carlos-eduardomelo/) | [GitHub](https://github.com/cadumelo20)
-João Tezolini - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-tezolini-sugahara/) | [GitHub](https://github.com/Joao-Tezolini)
-José Tales - [Linkedin](https://www.linkedin.com/in/tales-cavalcantii/) | [GitHub](https://github.com/talescavalcanti)
-Luisa Couto - [Linkedin]() | [GitHub]()
-Maria Vitória - [Linkedin]() | [GitHub]()
-Otávio Leão - [Linkedin](https://www.linkedin.com/in/otaviosleao/) | [GitHub](https://github.com/Ovat1o)
-Victor Julius - [Linkedin](https://www.linkedin.com/in/victor-julius/) | [GitHub](https://github.com/victorjls21)
+- Beatriz Camara - [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-câmara/) | [GitHub](https://github.com/BiaD-Cam)
+- Carlos Eduardo - [Linkedin](https://www.linkedin.com/in/carlos-eduardomelo/) | [GitHub](https://github.com/cadumelo20)
+- João Tezolini - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-tezolini-sugahara/) | [GitHub](https://github.com/Joao-Tezolini)
+- José Tales - [Linkedin](https://www.linkedin.com/in/tales-cavalcantii/) | [GitHub](https://github.com/talescavalcanti)
+- Luisa Couto - [Linkedin]() | [GitHub]()
+- Maria Vitória - [Linkedin]() | [GitHub]()
+- Otávio Leão - [Linkedin](https://www.linkedin.com/in/otaviosleao/) | [GitHub](https://github.com/Ovat1o)
+- Victor Julius - [Linkedin](https://www.linkedin.com/in/victor-julius/) | [GitHub](https://github.com/victorjls21)
