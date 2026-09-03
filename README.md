@@ -147,13 +147,16 @@ ________________________________________________________________________________
 
 ### Como alcançar os finais
 
+<details>
+<summary> Spoilers — clique para revelar</summary>
+
 O final do jogo depende das **recompensas obtidas durante as fases**. Cada desafio concluído corretamente permite que Elira recupere um Artefato de Memória, necessário para reconstruir a história de A.R.1.3.L.
 
 - **Final Ruim:** ocorre quando o jogador recupera poucas ou nenhuma recompensa. Elira não consegue reunir informações suficientes para enfrentar A.R.1.3.L, que permanece no controle.
-
-- **Final Padrão:** ocorre quando o jogador recupera apenas parte das recompensas. Elira consegue enfraquecer A.R.1.3.L, mas não possui todas as informações necessárias para salvar a consciência de sua irmã e à humanidade.
-
+- **Final Padrão:** ocorre quando o jogador recupera apenas parte das recompensas. Elira consegue enfraquecer A.R.1.3.L, mas não possui todas as informações necessárias para salvar a consciência de sua irmã e a humanidade.
 - **Final Ótimo:** ocorre quando o jogador recupera todas as recompensas. Com todos os fragmentos da história, Elira consegue compreender a origem de A.R.1.3.L, libertar sua irmã e devolver a autonomia à humanidade.
+
+</details>
 __________________________________________________________________________________________________________________________________________________
 
 ### Integrantes do Grupo
