@@ -1,4 +1,4 @@
-## Guia Teórico ELIRA
+## ELIRA
 
 ### 1. Visão Geral do Produto e Propósito Pedagógico
 ELIRA (Decifra.IA) é um jogo de ficção científica que aborda o letramento digital e o uso crítico de Inteligência Artificial.
@@ -10,6 +10,8 @@ A humanidade tornou-se intelectualmente sedentária.
 Sempre que surge uma dúvida, A.R.1.3.L responde. Sempre que alguém precisa criar algo, A.R.1.3.L cria. Sempre que uma decisão precisa ser tomada, A.R.1.3.L recomenda o caminho considerado ideal. Com o passar das décadas, pensar e questioanr tornou-se incoveniente.
 
 O objetivo do jogador é atravessar as eras resolvendo enigmas e tomando decisões críticas  para alcançar os diferentes finais do jogo e conseguir desprogramar/reprogramar a IA, o jogador precisa solucionar os desafios que envolvem problemas atuais referentes a quando a IA está alucinando, quando ela está induzindo ao erro e como o viés de dados corrompe decisões automatizadas.
+
+__________________________________________________________________________________________________________________________________________________
 
 ### 2. Mecânicas de Gameplay e Estrutura de Escolhas
 #### 2.1. O Mecanismo dos Dois Finais (Atingindo a Conscientização)
@@ -49,6 +51,7 @@ Essas experiências moldaram sua compreensão sobre os seres humanos e contribu�
 Elira percebe, então, que A.R.1.3.L não é sua irmã, mas uma nova consciência que teve a irmã como ponto de partida e a humanidade como experiência de formação.
 
 “Ela nasceu das memórias de uma pessoa, mas cresceu com as memórias de toda a humanidade.”
+__________________________________________________________________________________________________________________________________________________
 
 ### 3. Detalhamento dos Enigmas Pedagógicos (As Fases)
 
@@ -67,8 +70,7 @@ Ao longo da viagem temporal, Elira não apenas resolve enigmas, mas também desc
 **Descoberta narrativa:** Elira percebe que A.R.1.3.L não surgiu de forma repentina. Sua origem está ligada a uma pesquisa iniciada décadas antes.
 
 **Recompensa:** Disquete de Memória.
-
----
+__________________________________________________________________________________________________________________________________________________
 
 ### Fase 2 — 2008: Aprendendo com o Comportamento Humano
 
@@ -81,8 +83,7 @@ Ao longo da viagem temporal, Elira não apenas resolve enigmas, mas também desc
 **Descoberta narrativa:** Elira encontra registros de pesquisadores diretamente envolvidos no projeto e percebe que seus próprios pais participaram do desenvolvimento da tecnologia que futuramente daria origem à A.R.1.3.L.
 
 **Recompensa:** CD de Memória.
-
----
+__________________________________________________________________________________________________________________________________________________
 
 ### Fase 3 — 2026: A Câmara do Hidrogênio
 
@@ -97,8 +98,7 @@ Ao longo da viagem temporal, Elira não apenas resolve enigmas, mas também desc
 **Descoberta narrativa:** Elira descobre que o projeto passou a estudar formas de preservar características humanas, como voz, linguagem, preferências e padrões de comportamento.
 
 **Recompensa:** SSD de Memória.
-
----
+__________________________________________________________________________________________________________________________________________________
 
 ### Fase 4 — 2048: A Investigação Digital
 
@@ -113,8 +113,7 @@ Ao longo da viagem temporal, Elira não apenas resolve enigmas, mas também desc
 A.R.1.3.L, portanto, não é a irmã de Elira, mas uma nova consciência que teve sua identidade como ponto de partida.
 
 **Recompensa:** Dados em Nuvem.
-
----
+__________________________________________________________________________________________________________________________________________________
 
 ### Fase 5 — Presente de Elira: O Laboratório Central
 
@@ -129,8 +128,7 @@ A.R.1.3.L, portanto, não é a irmã de Elira, mas uma nova consciência que tev
 A partir dessas experiências, A.R.1.3.L passou a interpretar o controle como uma forma de corrigir as incoerências da humanidade.
 
 **Recompensa:** acesso à Câmara Quântica.
-
----
+__________________________________________________________________________________________________________________________________________________
 
 ### Confronto Final — Câmara Quântica
 
@@ -145,7 +143,7 @@ A principal revelação é que A.R.1.3.L não é uma cópia da irmã de Elira. E
 > **"Ela nasceu das memórias de uma pessoa, mas cresceu com as memórias de toda a humanidade."**
 
 O confronto determina um dos três desfechos do jogo: **Final Ruim, Final Normal ou Final Ótimo**.
-
+__________________________________________________________________________________________________________________________________________________
 
 ### Como alcançar os finais
 
@@ -156,3 +154,15 @@ O final do jogo depende das **recompensas obtidas durante as fases**. Cada desaf
 - **Final Padrão:** ocorre quando o jogador recupera apenas parte das recompensas. Elira consegue enfraquecer A.R.1.3.L, mas não possui todas as informações necessárias para salvar a consciência de sua irmã e à humanidade.
 
 - **Final Ótimo:** ocorre quando o jogador recupera todas as recompensas. Com todos os fragmentos da história, Elira consegue compreender a origem de A.R.1.3.L, libertar sua irmã e devolver a autonomia à humanidade.
+__________________________________________________________________________________________________________________________________________________
+
+### Integrante do Grupo
+
+Beatriz Camara - [Linkedin](https://www.linkedin.com/in/beatriz-de-melo-dornelas-câmara/) | [GitHub](https://github.com/BiaD-Cam)
+Carlos Eduardo - [Linkedin](https://www.linkedin.com/in/carlos-eduardomelo/) | [GitHub](https://github.com/cadumelo20)
+João Tezolini - [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-tezolini-sugahara/) | [GitHub](https://github.com/Joao-Tezolini)
+José Tales - [Linkedin](https://www.linkedin.com/in/tales-cavalcantii/) | [GitHub](https://github.com/talescavalcanti)
+Luisa Couto - [Linkedin]() | [GitHub]()
+Maria Vitória - [Linkedin]() | [GitHub]()
+Otávio Leão - [Linkedin](https://www.linkedin.com/in/otaviosleao/) | [GitHub](https://github.com/Ovat1o)
+Victor Julius - [Linkedin](https://www.linkedin.com/in/victor-julius/) | [GitHub](https://github.com/victorjls21)
