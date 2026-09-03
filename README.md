@@ -157,7 +157,7 @@ O final do jogo depende das **recompensas obtidas durante as fases**. Cada desaf
 - **Final Ótimo:** ocorre quando o jogador recupera todas as recompensas. Com todos os fragmentos da história, Elira consegue compreender a origem de A.R.1.3.L, libertar sua irmã e devolver a autonomia à humanidade.
 
 </details>
-__________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________
 
 ### Integrantes do Grupo
 
