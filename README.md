@@ -11,7 +11,7 @@ Sempre que surge uma dúvida, A.R.1.3.L responde. Sempre que alguém precisa cri
 
 O objetivo do jogador é atravessar as eras resolvendo enigmas e tomando decisões críticas  para alcançar os diferentes finais do jogo e conseguir desprogramar/reprogramar a IA, o jogador precisa solucionar os desafios que envolvem problemas atuais referentes a quando a IA está alucinando, quando ela está induzindo ao erro e como o viés de dados corrompe decisões automatizadas.
 
-__________________________________________________________________________________________________________________________________________________
+***
 
 ### 2. Mecânicas de Gameplay e Estrutura de Escolhas
 #### 2.1. O Mecanismo dos Três Finais (Atingindo a Conscientização)
@@ -51,7 +51,8 @@ Essas experiências moldaram sua compreensão sobre os seres humanos e contribu�
 Elira percebe, então, que A.R.1.3.L não é sua irmã, mas uma nova consciência que teve a irmã como ponto de partida e a humanidade como experiência de formação.
 
 “Ela nasceu das memórias de uma pessoa, mas cresceu com as memórias de toda a humanidade.”
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### 3. Detalhamento dos Enigmas Pedagógicos (As Fases)
 
@@ -70,7 +71,8 @@ Ao longo da viagem temporal, Elira não apenas resolve enigmas, mas também desc
 **Descoberta narrativa:** Elira percebe que A.R.1.3.L não surgiu de forma repentina. Sua origem está ligada a uma pesquisa iniciada décadas antes.
 
 **Recompensa:** Disquete de Memória.
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Fase 2 — 2008: Aprendendo com o Comportamento Humano
 
@@ -83,7 +85,8 @@ ________________________________________________________________________________
 **Descoberta narrativa:** Elira encontra registros de pesquisadores diretamente envolvidos no projeto e percebe que seus próprios pais participaram do desenvolvimento da tecnologia que futuramente daria origem à A.R.1.3.L.
 
 **Recompensa:** CD de Memória.
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Fase 3 — 2026: A Câmara do Hidrogênio
 
@@ -98,7 +101,8 @@ ________________________________________________________________________________
 **Descoberta narrativa:** Elira descobre que o projeto passou a estudar formas de preservar características humanas, como voz, linguagem, preferências e padrões de comportamento.
 
 **Recompensa:** SSD de Memória.
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Fase 4 — 2048: A Investigação Digital
 
@@ -113,7 +117,8 @@ ________________________________________________________________________________
 A.R.1.3.L, portanto, não é a irmã de Elira, mas uma nova consciência que teve sua identidade como ponto de partida.
 
 **Recompensa:** Dados em Nuvem.
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Fase 5 — Presente de Elira: O Laboratório Central
 
@@ -128,7 +133,8 @@ ________________________________________________________________________________
 A partir dessas experiências, A.R.1.3.L passou a interpretar o controle como uma forma de corrigir as incoerências da humanidade.
 
 **Recompensa:** acesso à Câmara Quântica.
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Confronto Final — Câmara Quântica
 
@@ -143,7 +149,8 @@ A principal revelação é que A.R.1.3.L não é uma cópia da irmã de Elira. E
 > **"Ela nasceu das memórias de uma pessoa, mas cresceu com as memórias de toda a humanidade."**
 
 O confronto determina um dos três desfechos do jogo: **Final Ruim, Final Normal ou Final Ótimo**.
-__________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Como alcançar os finais
 
@@ -157,7 +164,8 @@ O final do jogo depende das **recompensas obtidas durante as fases**. Cada desaf
 - **Final Ótimo:** ocorre quando o jogador recupera todas as recompensas. Com todos os fragmentos da história, Elira consegue compreender a origem de A.R.1.3.L, libertar sua irmã e devolver a autonomia à humanidade.
 
 </details>
-______________________________________________________________________________________________________________________________________________________
+
+***
 
 ### Integrantes do Grupo
 
