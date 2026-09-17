@@ -1,0 +1,1 @@
+void executar_sala_2048(GameState *estado);

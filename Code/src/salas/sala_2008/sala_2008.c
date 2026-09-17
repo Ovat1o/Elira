@@ -1,0 +1,1 @@
+void executar_sala_2008(GameState *estado);
